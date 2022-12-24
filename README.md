@@ -2,11 +2,10 @@
 - 👀 Atualmente estou interessado em aprender mais sobre a Área de TI
 - 🌱 Estou aprendendo Design de Web e C++
 ##
-
 <div align="center">
   <a href="https://github.com/H3LIO7">
   <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=H3LIO7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=H3LIO7&layout=compact&langs_count=7&theme=dracula"/>
+ 
 </div>
   
 ##
